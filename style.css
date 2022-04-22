@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+  width: 100%;
+  background: linear-gradient( rgba(0, 0, 0, 0.255), rgba(0, 0, 0, 0)), url(Charlesdari.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.narvbar{
+  width: 1200px;
+  height: 75px;
+  margin: auto;
+}
+
+.icon{
+width: 200px;
+float: left;
+height: 70px;
+}
+
+.logo{
+  color: bisque;
+  font-size: 35px;
+  font-family: Arial;
+  padding-left: 20px;
+  float: left;
+  padding-top: 10px;
+  margin-top: 5px;
+}
+
+.menu{
+  width: 800px;
+  float: left;
+  height: 90px;
+}
+
+ul{
+  float: left;
+  display: fex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul li{
+  list-style: georgian;
+  margin-left: 300px;
+  margin-top: -10px;
+  font-size: 40px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: orange;
+  font-family: Impact;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.para p{
+  color: aliceblue;
+  font-family: 'Gill Sans';
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 150px;
+  align-items: center;
+  position: static;
+  padding-top: 400px;
+}
